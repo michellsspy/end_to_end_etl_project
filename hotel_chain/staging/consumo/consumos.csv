@@ -1,0 +1,301 @@
+consumo_id,hóspede_id,quarto_id,data_consumo,tipo_servico,descricao,valor,pago
+5001,90,177,2025-09-12,Restaurante,Jantar à la carte,110.92,Sim
+5002,185,414,2025-09-27,Estacionamento,Estacionamento por hora,12.95,Sim
+5003,73,388,2025-08-26,Spa,Massagem relaxante,188.94,Sim
+5004,87,338,2025-09-14,Lavanderia,Lavagem roupa,78.82,Sim
+5005,142,347,2025-08-23,Restaurante,Buffet completo,128.24,Sim
+5006,158,397,2025-08-14,Lavanderia,Lavagem urgente,75.13,Não
+5007,31,169,2025-08-19,Business Center,Impressão página,4.74,Sim
+5008,146,104,2025-09-27,Bar,Drinks especiais,28.72,Sim
+5009,152,391,2025-09-24,Restaurante,Almoço executivo,46.42,Sim
+5010,34,256,2025-09-25,Restaurante,Room service - jantar,72.46,Sim
+5011,63,433,2025-08-15,Business Center,Impressão página,4.92,Sim
+5012,18,178,2025-08-09,Estacionamento,Estacionamento por hora,14.96,Sim
+5013,7,412,2025-08-16,Restaurante,Café da manhã,37.84,Não
+5014,155,189,2025-08-09,Spa,Day use spa,299.34,Sim
+5015,130,437,2025-09-04,Bar,Vinho taça,37.19,Não
+5016,100,363,2025-09-06,Estacionamento,Estacionamento por hora,14.86,Sim
+5017,17,167,2025-09-17,Business Center,Uso computador/hora,43.58,Sim
+5018,74,473,2025-08-29,Spa,Pacote completo,313.56,Sim
+5019,27,465,2025-08-31,Estacionamento,Valet service,25.79,Sim
+5020,74,138,2025-09-05,Bar,Vinho taça,32.93,Sim
+5021,97,304,2025-09-15,Restaurante,Room service - jantar,99.54,Sim
+5022,8,218,2025-08-09,Estacionamento,Valet service,31.87,Sim
+5023,32,189,2025-08-28,Estacionamento,Valet service,30.21,Sim
+5024,111,491,2025-09-16,Bar,Sucos naturais,15.20,Sim
+5025,137,152,2025-09-25,Bar,Cervejas importadas,19.28,Sim
+5026,153,385,2025-08-26,Restaurante,Buffet completo,93.28,Sim
+5027,93,492,2025-09-03,Lavanderia,Lavagem a seco,36.85,Sim
+5028,1,278,2025-09-22,Restaurante,Room service - jantar,99.75,Sim
+5029,19,468,2025-09-20,Bar,Coquetéis,41.73,Sim
+5030,112,221,2025-08-25,Bar,Coquetéis,48.14,Sim
+5031,83,172,2025-09-04,Lavanderia,Lavagem urgente,82.87,Sim
+5032,48,220,2025-09-05,Bar,Coquetéis,52.31,Não
+5033,122,275,2025-09-21,Restaurante,Café da manhã,41.19,Sim
+5034,149,267,2025-09-15,Restaurante,Buffet completo,95.35,Sim
+5035,191,417,2025-08-14,Estacionamento,Estacionamento por hora,11.64,Sim
+5036,167,444,2025-08-02,Bar,Cervejas importadas,28.83,Não
+5037,2,269,2025-08-22,Bar,Coquetéis,43.78,Sim
+5038,52,363,2025-08-01,Restaurante,Room service - jantar,113.00,Sim
+5039,110,270,2025-08-14,Bar,Sucos naturais,15.17,Sim
+5040,13,340,2025-09-10,Bar,Sucos naturais,12.88,Sim
+5041,110,390,2025-09-14,Spa,Pacote completo,359.28,Sim
+5042,148,345,2025-08-20,Business Center,Reunião sala,127.53,Sim
+5043,25,109,2025-09-20,Lavanderia,Lavagem a seco,36.32,Sim
+5044,57,369,2025-08-13,Estacionamento,Valet service,35.16,Não
+5045,58,237,2025-08-05,Bar,Drinks especiais,32.02,Sim
+5046,152,285,2025-08-04,Bar,Coquetéis,43.84,Sim
+5047,108,195,2025-09-01,Estacionamento,Diária estacionamento,41.48,Sim
+5048,24,216,2025-08-06,Estacionamento,Estacionamento por hora,10.67,Sim
+5049,61,129,2025-08-25,Restaurante,Café da manhã,32.01,Sim
+5050,157,168,2025-09-08,Business Center,Reunião sala,178.35,Sim
+5051,109,323,2025-08-29,Restaurante,Room service - jantar,87.83,Sim
+5052,52,144,2025-08-19,Restaurante,Jantar à la carte,80.26,Sim
+5053,153,368,2025-09-26,Bar,Cervejas importadas,15.67,Sim
+5054,146,235,2025-08-07,Lavanderia,Lavagem a seco,65.55,Não
+5055,65,132,2025-08-12,Spa,Tratamento facial,126.68,Não
+5056,164,451,2025-08-05,Restaurante,Café da manhã,25.81,Sim
+5057,113,408,2025-09-06,Bar,Vinho taça,35.35,Sim
+5058,16,122,2025-09-11,Bar,Cervejas importadas,25.71,Sim
+5059,145,433,2025-08-27,Business Center,Impressão página,2.60,Não
+5060,144,321,2025-08-05,Spa,Pacote completo,454.50,Sim
+5061,26,218,2025-08-16,Spa,Tratamento facial,144.67,Sim
+5062,83,368,2025-08-30,Business Center,Impressão página,2.51,Sim
+5063,187,392,2025-09-11,Lavanderia,Lavagem urgente,79.87,Sim
+5064,62,368,2025-09-06,Restaurante,Almoço executivo,67.67,Sim
+5065,90,244,2025-08-25,Lavanderia,Passagem roupa,25.09,Sim
+5066,94,104,2025-08-22,Bar,Coquetéis,48.21,Não
+5067,67,369,2025-09-19,Business Center,Impressão página,2.50,Não
+5068,29,427,2025-09-04,Business Center,Reunião sala,148.68,Sim
+5069,155,355,2025-08-04,Bar,Sucos naturais,16.24,Não
+5070,26,466,2025-09-06,Bar,Sucos naturais,16.31,Sim
+5071,51,213,2025-09-10,Business Center,Reunião sala,164.90,Sim
+5072,12,122,2025-08-13,Lavanderia,Passagem roupa,46.49,Sim
+5073,59,155,2025-08-21,Estacionamento,Valet service,35.56,Não
+5074,193,445,2025-09-06,Lavanderia,Lavagem roupa,47.41,Sim
+5075,136,453,2025-09-13,Spa,Pacote completo,415.18,Não
+5076,179,361,2025-08-28,Spa,Day use spa,211.72,Sim
+5077,10,142,2025-08-27,Lavanderia,Lavagem roupa,66.78,Sim
+5078,173,494,2025-09-10,Restaurante,Buffet completo,118.16,Não
+5079,27,409,2025-08-21,Business Center,Serviço secretária,53.13,Sim
+5080,173,213,2025-09-25,Spa,Massagem terapêutica,209.54,Sim
+5081,152,116,2025-08-25,Estacionamento,Diária estacionamento,45.64,Não
+5082,13,296,2025-09-14,Estacionamento,Estacionamento por hora,10.33,Não
+5083,29,483,2025-09-12,Spa,Massagem relaxante,236.02,Sim
+5084,56,110,2025-08-03,Business Center,Serviço secretária,67.55,Sim
+5085,191,299,2025-09-14,Bar,Sucos naturais,14.12,Sim
+5086,141,363,2025-09-10,Lavanderia,Lavagem roupa,69.18,Não
+5087,51,125,2025-08-08,Spa,Day use spa,272.53,Sim
+5088,33,137,2025-08-01,Restaurante,Jantar à la carte,109.53,Não
+5089,74,285,2025-09-25,Estacionamento,Diária estacionamento,44.99,Sim
+5090,93,259,2025-08-05,Bar,Cervejas importadas,27.65,Não
+5091,102,271,2025-08-14,Lavanderia,Lavagem roupa,53.28,Sim
+5092,185,107,2025-09-19,Bar,Drinks especiais,27.31,Sim
+5093,189,147,2025-09-19,Estacionamento,Diária estacionamento,40.31,Sim
+5094,80,326,2025-08-17,Restaurante,Room service - jantar,65.34,Sim
+5095,123,415,2025-08-17,Business Center,Uso computador/hora,26.26,Sim
+5096,181,257,2025-08-26,Lavanderia,Lavagem urgente,77.75,Sim
+5097,56,291,2025-08-18,Restaurante,Jantar à la carte,118.89,Sim
+5098,151,271,2025-08-05,Restaurante,Café da manhã,32.66,Sim
+5099,8,127,2025-09-16,Lavanderia,Lavagem roupa,78.01,Sim
+5100,90,334,2025-08-03,Bar,Sucos naturais,12.50,Sim
+5101,20,359,2025-09-21,Bar,Sucos naturais,12.52,Não
+5102,121,118,2025-09-10,Bar,Vinho taça,46.44,Sim
+5103,184,438,2025-09-26,Lavanderia,Passagem roupa,25.74,Sim
+5104,96,487,2025-09-03,Lavanderia,Lavagem roupa,48.45,Não
+5105,31,488,2025-07-29,Bar,Vinho taça,51.70,Não
+5106,82,222,2025-09-13,Business Center,Reunião sala,144.22,Sim
+5107,117,221,2025-09-20,Estacionamento,Diária estacionamento,35.98,Sim
+5108,170,467,2025-09-21,Business Center,Impressão página,2.51,Sim
+5109,115,446,2025-09-18,Business Center,Serviço secretária,54.07,Sim
+5110,73,460,2025-08-07,Lavanderia,Passagem roupa,45.89,Sim
+5111,81,272,2025-08-02,Lavanderia,Lavagem a seco,37.39,Sim
+5112,54,246,2025-09-21,Estacionamento,Valet service,22.26,Não
+5113,137,409,2025-08-04,Spa,Day use spa,240.11,Sim
+5114,173,300,2025-08-06,Lavanderia,Passagem roupa,36.31,Sim
+5115,28,125,2025-08-22,Spa,Day use spa,310.16,Sim
+5116,16,187,2025-09-22,Business Center,Uso computador/hora,44.37,Não
+5117,79,371,2025-09-06,Lavanderia,Lavagem urgente,89.31,Sim
+5118,125,369,2025-08-27,Bar,Vinho taça,37.95,Sim
+5119,106,312,2025-09-06,Restaurante,Almoço executivo,65.80,Sim
+5120,167,409,2025-09-15,Bar,Drinks especiais,25.94,Sim
+5121,68,126,2025-08-20,Spa,Pacote completo,402.42,Não
+5122,143,256,2025-09-16,Lavanderia,Lavagem roupa,47.85,Sim
+5123,88,467,2025-09-17,Business Center,Reunião sala,158.09,Sim
+5124,9,488,2025-08-03,Business Center,Uso computador/hora,36.74,Não
+5125,10,425,2025-09-15,Estacionamento,Diária estacionamento,38.37,Sim
+5126,149,179,2025-09-18,Business Center,Uso computador/hora,29.80,Sim
+5127,4,409,2025-08-10,Restaurante,Buffet completo,112.36,Sim
+5128,75,140,2025-08-15,Restaurante,Buffet completo,99.66,Sim
+5129,15,473,2025-09-13,Estacionamento,Diária estacionamento,35.94,Sim
+5130,121,374,2025-09-10,Restaurante,Jantar à la carte,88.84,Sim
+5131,155,447,2025-09-08,Estacionamento,Diária estacionamento,43.06,Não
+5132,61,136,2025-09-22,Spa,Tratamento facial,178.22,Sim
+5133,153,287,2025-08-20,Bar,Sucos naturais,19.23,Sim
+5134,48,191,2025-09-15,Bar,Vinho taça,47.92,Sim
+5135,139,338,2025-09-27,Bar,Vinho taça,37.55,Sim
+5136,55,315,2025-08-04,Spa,Massagem terapêutica,271.98,Sim
+5137,56,425,2025-08-02,Bar,Vinho taça,44.67,Sim
+5138,18,460,2025-09-09,Business Center,Impressão página,2.51,Não
+5139,145,469,2025-09-27,Spa,Tratamento facial,141.63,Sim
+5140,46,375,2025-09-13,Business Center,Impressão página,4.33,Sim
+5141,2,200,2025-09-03,Lavanderia,Lavagem urgente,67.19,Sim
+5142,51,245,2025-08-31,Restaurante,Room service - jantar,61.89,Sim
+5143,82,337,2025-09-06,Estacionamento,Diária estacionamento,45.17,Sim
+5144,96,494,2025-08-19,Bar,Vinho taça,42.72,Não
+5145,177,468,2025-09-04,Spa,Pacote completo,326.86,Sim
+5146,166,174,2025-09-14,Business Center,Serviço secretária,83.64,Sim
+5147,70,295,2025-09-05,Restaurante,Buffet completo,110.96,Sim
+5148,135,369,2025-08-31,Estacionamento,Valet service,24.96,Sim
+5149,177,362,2025-07-30,Lavanderia,Lavagem roupa,59.06,Sim
+5150,3,248,2025-09-21,Restaurante,Café da manhã,35.47,Sim
+5151,87,181,2025-09-05,Business Center,Reunião sala,122.45,Sim
+5152,196,257,2025-09-08,Business Center,Impressão página,4.93,Sim
+5153,82,275,2025-09-05,Lavanderia,Lavagem urgente,97.74,Sim
+5154,139,481,2025-08-14,Estacionamento,Diária estacionamento,38.68,Sim
+5155,157,203,2025-08-25,Spa,Day use spa,283.71,Sim
+5156,75,427,2025-08-21,Lavanderia,Passagem roupa,26.59,Sim
+5157,143,239,2025-08-25,Estacionamento,Diária estacionamento,36.24,Sim
+5158,160,408,2025-09-24,Bar,Vinho taça,38.62,Não
+5159,30,221,2025-08-28,Restaurante,Buffet completo,129.03,Sim
+5160,40,431,2025-09-01,Lavanderia,Passagem roupa,36.89,Sim
+5161,124,327,2025-09-03,Spa,Tratamento facial,162.05,Sim
+5162,37,195,2025-09-27,Bar,Vinho taça,58.33,Sim
+5163,13,393,2025-09-11,Estacionamento,Estacionamento por hora,13.96,Sim
+5164,16,488,2025-10-01,Restaurante,Jantar à la carte,148.39,Sim
+5165,103,477,2025-08-24,Estacionamento,Valet service,33.42,Sim
+5166,41,132,2025-08-08,Restaurante,Jantar à la carte,106.22,Sim
+5167,114,335,2025-09-10,Business Center,Reunião sala,113.70,Não
+5168,63,208,2025-08-30,Spa,Day use spa,336.98,Não
+5169,138,140,2025-09-23,Restaurante,Room service - jantar,63.86,Sim
+5170,113,158,2025-08-17,Estacionamento,Estacionamento por hora,14.73,Sim
+5171,61,165,2025-09-22,Bar,Vinho taça,34.29,Sim
+5172,147,203,2025-09-28,Restaurante,Buffet completo,104.89,Sim
+5173,69,110,2025-09-13,Spa,Massagem terapêutica,186.20,Não
+5174,128,226,2025-09-12,Restaurante,Room service - jantar,118.27,Não
+5175,90,227,2025-08-23,Estacionamento,Diária estacionamento,47.96,Sim
+5176,52,380,2025-09-19,Spa,Pacote completo,352.74,Sim
+5177,131,281,2025-09-08,Lavanderia,Lavagem urgente,72.91,Sim
+5178,80,381,2025-09-13,Bar,Drinks especiais,42.39,Sim
+5179,170,432,2025-08-20,Lavanderia,Passagem roupa,28.26,Sim
+5180,164,196,2025-09-22,Bar,Cervejas importadas,27.04,Não
+5181,76,284,2025-09-08,Lavanderia,Lavagem roupa,43.47,Não
+5182,109,354,2025-08-09,Spa,Pacote completo,451.30,Sim
+5183,35,346,2025-09-12,Restaurante,Jantar à la carte,140.19,Não
+5184,200,361,2025-09-28,Estacionamento,Estacionamento por hora,10.38,Não
+5185,25,491,2025-08-25,Lavanderia,Passagem roupa,37.38,Sim
+5186,55,405,2025-09-17,Spa,Tratamento facial,125.18,Sim
+5187,198,171,2025-09-20,Business Center,Serviço secretária,83.49,Sim
+5188,176,309,2025-08-16,Estacionamento,Valet service,27.73,Sim
+5189,197,173,2025-08-04,Restaurante,Jantar à la carte,110.35,Sim
+5190,133,457,2025-08-31,Estacionamento,Estacionamento por hora,14.38,Sim
+5191,90,219,2025-09-22,Restaurante,Jantar à la carte,122.84,Sim
+5192,36,321,2025-09-04,Bar,Vinho taça,32.57,Não
+5193,129,131,2025-08-22,Business Center,Reunião sala,188.15,Sim
+5194,172,369,2025-09-06,Lavanderia,Lavagem a seco,38.06,Sim
+5195,75,232,2025-08-31,Estacionamento,Diária estacionamento,35.06,Não
+5196,170,221,2025-08-09,Estacionamento,Estacionamento por hora,11.08,Sim
+5197,171,445,2025-09-10,Business Center,Serviço secretária,86.90,Sim
+5198,200,225,2025-08-22,Bar,Drinks especiais,39.22,Sim
+5199,35,466,2025-08-25,Restaurante,Café da manhã,31.67,Sim
+5200,196,439,2025-08-21,Spa,Tratamento facial,175.06,Sim
+5201,127,137,2025-09-30,Estacionamento,Diária estacionamento,42.27,Não
+5202,196,341,2025-08-21,Lavanderia,Lavagem a seco,60.40,Sim
+5203,8,219,2025-09-01,Restaurante,Room service - jantar,103.02,Não
+5204,14,303,2025-09-11,Business Center,Serviço secretária,87.66,Sim
+5205,70,484,2025-08-27,Bar,Vinho taça,49.53,Sim
+5206,185,266,2025-09-25,Business Center,Uso computador/hora,33.35,Sim
+5207,35,126,2025-08-23,Restaurante,Buffet completo,125.07,Sim
+5208,165,330,2025-08-06,Estacionamento,Valet service,30.95,Sim
+5209,41,391,2025-08-24,Restaurante,Café da manhã,42.29,Sim
+5210,200,356,2025-09-27,Estacionamento,Valet service,35.75,Não
+5211,82,215,2025-08-10,Lavanderia,Lavagem urgente,71.87,Não
+5212,10,305,2025-09-26,Estacionamento,Diária estacionamento,44.20,Sim
+5213,116,297,2025-08-05,Bar,Vinho taça,36.79,Sim
+5214,181,363,2025-09-05,Restaurante,Buffet completo,111.57,Sim
+5215,154,452,2025-09-16,Restaurante,Almoço executivo,70.94,Sim
+5216,169,398,2025-08-12,Spa,Day use spa,239.74,Sim
+5217,97,190,2025-08-23,Spa,Tratamento facial,123.97,Não
+5218,139,384,2025-09-15,Lavanderia,Passagem roupa,48.80,Não
+5219,180,305,2025-08-14,Business Center,Reunião sala,141.01,Não
+5220,60,295,2025-09-20,Estacionamento,Estacionamento por hora,13.45,Sim
+5221,94,302,2025-09-19,Restaurante,Buffet completo,117.81,Sim
+5222,6,355,2025-09-25,Bar,Vinho taça,34.48,Sim
+5223,53,266,2025-09-23,Spa,Day use spa,274.23,Sim
+5224,83,381,2025-09-14,Business Center,Serviço secretária,60.03,Sim
+5225,152,212,2025-09-10,Estacionamento,Estacionamento por hora,13.24,Sim
+5226,151,284,2025-08-08,Estacionamento,Valet service,39.15,Não
+5227,44,191,2025-08-31,Estacionamento,Estacionamento por hora,11.87,Sim
+5228,60,372,2025-08-02,Business Center,Impressão página,4.64,Sim
+5229,32,365,2025-08-15,Restaurante,Almoço executivo,46.13,Sim
+5230,10,104,2025-09-05,Lavanderia,Passagem roupa,33.28,Não
+5231,117,450,2025-08-09,Business Center,Uso computador/hora,40.94,Sim
+5232,51,426,2025-08-01,Bar,Coquetéis,47.01,Não
+5233,81,115,2025-08-15,Lavanderia,Lavagem a seco,45.48,Sim
+5234,15,283,2025-09-24,Lavanderia,Lavagem roupa,73.04,Sim
+5235,96,259,2025-09-13,Lavanderia,Lavagem roupa,74.58,Sim
+5236,130,246,2025-08-06,Estacionamento,Diária estacionamento,37.49,Não
+5237,147,417,2025-09-03,Lavanderia,Lavagem a seco,63.02,Sim
+5238,108,453,2025-08-25,Restaurante,Café da manhã,35.44,Não
+5239,48,236,2025-08-31,Lavanderia,Passagem roupa,27.29,Não
+5240,111,385,2025-09-02,Business Center,Serviço secretária,84.25,Sim
+5241,106,347,2025-09-12,Bar,Coquetéis,49.99,Sim
+5242,131,191,2025-09-14,Lavanderia,Lavagem a seco,38.16,Sim
+5243,7,301,2025-08-27,Spa,Massagem relaxante,225.61,Sim
+5244,177,200,2025-09-01,Restaurante,Room service - jantar,94.13,Sim
+5245,187,486,2025-09-08,Lavanderia,Lavagem roupa,77.98,Sim
+5246,165,476,2025-08-19,Business Center,Uso computador/hora,30.76,Sim
+5247,101,388,2025-08-14,Business Center,Impressão página,3.78,Sim
+5248,197,406,2025-08-20,Business Center,Reunião sala,174.36,Sim
+5249,63,475,2025-08-03,Estacionamento,Estacionamento por hora,14.16,Sim
+5250,199,291,2025-09-09,Business Center,Reunião sala,154.20,Sim
+5251,87,152,2025-09-06,Restaurante,Café da manhã,26.65,Sim
+5252,43,454,2025-09-28,Business Center,Uso computador/hora,39.69,Não
+5253,150,263,2025-08-30,Restaurante,Buffet completo,92.74,Sim
+5254,29,326,2025-08-25,Lavanderia,Passagem roupa,32.98,Sim
+5255,82,143,2025-09-21,Spa,Pacote completo,393.14,Sim
+5256,68,127,2025-08-28,Lavanderia,Lavagem urgente,99.55,Não
+5257,73,336,2025-08-21,Bar,Cervejas importadas,19.19,Sim
+5258,11,395,2025-09-25,Business Center,Impressão página,3.25,Sim
+5259,158,415,2025-09-26,Business Center,Reunião sala,171.64,Sim
+5260,120,204,2025-09-17,Estacionamento,Diária estacionamento,47.21,Sim
+5261,71,134,2025-09-28,Business Center,Reunião sala,195.62,Sim
+5262,136,209,2025-09-12,Lavanderia,Lavagem urgente,97.72,Sim
+5263,149,175,2025-08-17,Bar,Cervejas importadas,26.71,Não
+5264,51,141,2025-08-15,Lavanderia,Lavagem roupa,61.90,Sim
+5265,64,162,2025-08-16,Business Center,Reunião sala,121.76,Sim
+5266,152,197,2025-09-22,Bar,Sucos naturais,18.48,Sim
+5267,128,366,2025-08-24,Spa,Day use spa,242.56,Sim
+5268,93,291,2025-09-07,Spa,Day use spa,228.66,Sim
+5269,39,399,2025-08-20,Restaurante,Almoço executivo,65.16,Não
+5270,83,298,2025-08-14,Estacionamento,Estacionamento por hora,12.23,Sim
+5271,80,446,2025-08-04,Estacionamento,Diária estacionamento,32.60,Não
+5272,24,140,2025-07-31,Lavanderia,Lavagem a seco,56.08,Não
+5273,23,422,2025-08-02,Lavanderia,Lavagem urgente,70.11,Sim
+5274,28,159,2025-08-31,Spa,Massagem terapêutica,255.52,Não
+5275,39,484,2025-09-17,Restaurante,Jantar à la carte,83.73,Sim
+5276,156,161,2025-08-28,Business Center,Reunião sala,106.08,Não
+5277,137,354,2025-08-13,Business Center,Reunião sala,168.76,Sim
+5278,138,337,2025-09-23,Lavanderia,Lavagem urgente,65.33,Sim
+5279,21,143,2025-09-12,Lavanderia,Lavagem urgente,77.99,Não
+5280,194,326,2025-09-18,Bar,Vinho taça,30.95,Sim
+5281,26,278,2025-09-15,Spa,Pacote completo,322.67,Sim
+5282,35,216,2025-09-09,Restaurante,Jantar à la carte,82.77,Sim
+5283,116,479,2025-08-14,Spa,Massagem relaxante,224.83,Sim
+5284,142,340,2025-08-10,Spa,Day use spa,252.81,Sim
+5285,143,401,2025-09-02,Bar,Drinks especiais,42.98,Sim
+5286,77,299,2025-09-18,Restaurante,Room service - jantar,119.65,Sim
+5287,42,244,2025-09-01,Lavanderia,Lavagem urgente,94.02,Sim
+5288,198,266,2025-09-15,Bar,Cervejas importadas,24.68,Sim
+5289,41,116,2025-08-26,Lavanderia,Passagem roupa,47.88,Não
+5290,20,252,2025-09-14,Bar,Vinho taça,59.89,Sim
+5291,44,281,2025-08-29,Estacionamento,Diária estacionamento,46.79,Não
+5292,106,344,2025-08-18,Restaurante,Buffet completo,129.00,Não
+5293,124,239,2025-09-27,Lavanderia,Lavagem a seco,58.45,Sim
+5294,96,344,2025-09-19,Business Center,Reunião sala,173.10,Não
+5295,199,255,2025-08-06,Restaurante,Café da manhã,44.36,Sim
+5296,152,186,2025-08-21,Business Center,Uso computador/hora,33.38,Sim
+5297,90,289,2025-08-25,Lavanderia,Passagem roupa,47.11,Não
+5298,57,184,2025-09-18,Restaurante,Buffet completo,95.71,Sim
+5299,51,143,2025-09-08,Lavanderia,Lavagem urgente,60.19,Sim
+5300,119,372,2025-08-16,Business Center,Reunião sala,174.58,Sim
